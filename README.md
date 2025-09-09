@@ -48,7 +48,6 @@ The dashboard is structured into **4 pages**:
 
 ## 📂 Repository Contents
 
-- `data/` →  Sample dataset 
 - `dashboard/` → Power BI `.pbix` file  
 - `report/` → Summary PDF report  
 - `images/` → Screenshots for quick reference  
